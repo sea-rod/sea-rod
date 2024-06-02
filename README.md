@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seamus</h1>
 <h3 align="center">A passionate Django developer</h3>
 
-- 🔭 I’m currently working on [Xconnect](https://github.com/sea-rod/xavier-connect)
+- 🔭 I’m currently working on [Roberto-sound-Repair](https://github.com/sea-rod/Roberto-Sound-Repair)
 
 - 🌱 I’m currently learning **Django and Django Rest Framework**
 
