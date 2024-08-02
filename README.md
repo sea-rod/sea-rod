@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seamus</h1>
 <h3 align="center">A passionate Django developer</h3>
 
-- 🔭 I’m currently working on [Roberto-sound-Repair](https://github.com/sea-rod/Roberto-Sound-Repair)
+- 🔭 I’m currently working on [Budget-Helper](https://github.com/sea-rod/Budget-Helper)
 
-- 🌱 I’m currently learning **Django and Django Rest Framework**
+- 🌱 I’m currently learning **Ml and Neural Networks**
 
 - 👯 I’m looking to collaborate on [Quiz](https://github.com/sea-rod/quiz)
 
