@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seamus</h1>
 <h3 align="center">A passionate Django developer</h3>
 
-- 🔭 I’m currently working on [Budget-Helper](https://github.com/sea-rod/Budget-Helper)
+- 🔭 I’m currently working on [Jobify](https://github.com/sea-rod/jobify)
 
 - 🌱 I’m currently learning **Ml and Neural Networks**
 
-- 👯 I’m looking to collaborate on [Quiz](https://github.com/sea-rod/quiz)
+- 👯 I’m looking to collaborate on [Quiz-app](https://github.com/sea-rod/quiz-app)
 
 - 💬 Ask me about **Python Django, Django Rest Framework, HTML, CSS, Js**
 
